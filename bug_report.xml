@@ -1,1 +1,13 @@
-
+<?xml version="1.0" encoding="utf-8"?>
+  <root>
+    <Num name="1">
+      <Title> Bug Title </Title>
+      <Severity> Major </Severity>
+      <Preconditions> Install app </Preconditions>
+      <Steps> 1. Step; 2. Step </Steps>
+      <ExpectedResult> text </ExpectedResult>
+      <ActualResult> text </ActualResult>
+      <Enviroment> win 11, chrome 107 </Enviroment>
+      <Comment> text </Comment>
+    </Num>
+  </root>
